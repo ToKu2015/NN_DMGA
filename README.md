@@ -11,4 +11,4 @@ Please copy the two MATLAB helper functions "loadMNISTImages" and "loadMNISTLabe
 
 The MNIST dataset can be downloaded from http://yann.lecun.com/exdb/mnist/.
 
-http://ufldl.stanford.edu/wiki/index.php/Using_the_MNIST_Dataset
+Source: http://ufldl.stanford.edu/wiki/index.php/Using_the_MNIST_Dataset
